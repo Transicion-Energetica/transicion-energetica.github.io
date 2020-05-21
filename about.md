@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Somos Mexicanos y compartimos tu visión de un México limpio
+title: Somos Mexicanos y compartimos tu visión de un México verde
 comments: false
 ---
 
-Somos mexicanos al igual que tú con una visión de un México limpio y seguro. Nos preocupa el rumbo que el país está llevando, y por eso nos hemos comprometido a crear esta página para compartir información y eventos relacionados a las energías renovables. Creemos firmemente que todos deben tener acceso a la información, y que esta democratización de la información puede revolucionar el país. Esperamos ver a más y más mexicanos informados sobre los beneficios de las energías renovables para que presionen al gobierno a re-orientar el rumbo del país hacia un futuro más limpio y seguro, un país que nos pueda asegurar bienestar más allá del bienestar económico. 
+¡Somos mexicanos al igual que tú y nos enorgullece serlo! Nos preocupa el rumbo que el país está llevando porque creemos que nos aleja del México que queremos: un país limpio y seguro. Por eso, nos hemos comprometido a crear esta página para compartir artículos de opinión, artículos científicos, y eventos relacionados a las energías renovables. Creemos firmemente que la democratización de la información puede revolucionar al país. Esperamos ver a más mexicanos informados sobre los beneficios de las energías renovables. Quizás esto puede reorientar el rumbo del país hacia un México que nos asegure bienestar más allá del bienestar económico. 
 
 Si deseas compartir información en está página, mandanos un [email][jekyll-docs].
 
-[jekyll-docs]: transicionenergeticaenmexico@gmail.com.
+[jekyll-docs]: mailto:transicionenergeticaenmexico@gmail.com.
