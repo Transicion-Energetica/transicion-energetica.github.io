@@ -2,14 +2,12 @@
 layout: post
 title:  "Firma petición de GREENPEACE"
 author: greenpeacemexico
-categories: [ participa ]
+categories: [ actúa, firma ]
 featured: true
 image: assets/images/aceite.jpg
 ---
 
-Rocío Nahle:
-
-En esta ocasión me dirijo a usted para manifestar mi desacuerdo con las medidas que recientemente se han tomado en materia de generación de electricidad que ponen freno a las energías renovables en nuestro país.
+Rocío Nahle: En esta ocasión me dirijo a usted para manifestar mi desacuerdo con las medidas que recientemente se han tomado en materia de generación de electricidad que ponen freno a las energías renovables en nuestro país.
 
 Como mexicana/o me preocupa que desde el gobierno se esté priorizando a los combustibles fósiles altamente contaminantes como el combustóleo, carbón y gas natural para la generación de electricidad, con la falsa idea de que lograremos la soberanía energética en un mundo donde la era del petróleo está llegando a su fin y México ya no es la potencia petrolera que fue.
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "La transición hacia una economía bajo en carbono en México."
 author: andresfernandez
-categories: [ participa ]
+categories: [ eventos, infórmate ]
 featured: true
 image: assets/images/andresfernandez.jpg
 ---
@@ -13,7 +13,9 @@ Andrés Fernández, experto en política pública relacionado con infraestructur
 
 
 **Fecha y Hora:** 25 may 2020 04:30 PM
+
 [Link de la reunión][jekyll-docs].
+
 ID de reunión: 997 2619 7840
 
 

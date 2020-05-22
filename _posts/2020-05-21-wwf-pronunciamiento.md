@@ -2,7 +2,7 @@
 layout: post
 title:  "WWF México apoya el desarrollo de las energías renovables en el país como pieza fundamental para la transición energética justa."
 author: wwfmexico
-categories: [ opinion ]
+categories: [ infórmate, opinión ]
 featured: false
 image: assets/images/solar.jpg
 ---
@@ -22,7 +22,9 @@ Países desarrollados y en vías de desarrollo han invertido fuertemente en la g
  
 WWF México exhorta a la SENER a analizar los perjuicios que estas medidas suponen a la economía, el medioambiente y la salud de las y los mexicanos, y expresa su voluntad de colaborar en la búsqueda de alternativas que contribuyan a la lucha global contra el cambio climático. Nos mueve el respeto a la naturaleza y el bienestar de las personas.  
 
-Para mayor información contactar a: [Gerado Tena][mailto:gtena@wwfmex.org]
+Para mayor información contactar a: [Gerado Tena][jekyll-docs].
+
+
  
 
 **REFERENCIAS**
@@ -30,8 +32,16 @@ Para mayor información contactar a: [Gerado Tena][mailto:gtena@wwfmex.org]
 [1] Asociación Mexicana de Energía Eólica (2020). Informe de impacto al sector solar y eólico por el Acuerdo para garantizar la eficiencia, calidad, confiabilidad, continuidad y seguridad del SEN. Recuperado de: https://amdee.org/informe.html
  
 [2] Secretaría de Energía (2020). Reporte Anual de Potencial de Mitigación de GEI del Sector Eléctrico. Recuperado de: http://cambioclimatico.gob.mx:8080/xmlui/bitstream/handle/publicaciones/328/941_2019_reporte_SENER.pdf?sequence=5&isAllowed=y
+
 [3] Naciones Unidas (2016). India plans to produce 175 GW of renewable energy by 2022. Recuperado de: https://sustainablBedevelopment.un.org/partnership/?p=34566
+
 [4] IEEFA (2020). Renewables generated nearly 45% of Great Britain’s electricity in the first quarter. Recuperado de: https://ieefa.org/renewables-generated-nearly-45-of-great-britains-electricity-in-the-first-quarter/
+
 [5] IEEFA (2020). Renewables provide 52% of Germany’s electricity in first quarter, a new record. Recuperado de: https://ieefa.org/renewables-provide-52-of-germanys-electricity-in-first-quarter-a-new-record/
+
 [6] Energía Limpia para Todos (2020). Noruega, Portugal y Costa Rica hacen historia con 100% de energía limpia. Recuperado de: https://energialimpiaparatodos.com/2020/02/23/noruega-portugal-y-costa-rica-hacen-historia-100-energia-limpia-eolica-solar-e-hidroelectrica-3/
+
 [7] REN21, 2017. Renewable Energy Tenders and Community [Em]power[ment]: Latin America and the Caribbean (Paris: REN21 Secretariat). https://www.ren21.net/2017-renewable-energy-tenders-and-community-empowerment-lac/
+
+
+[jekyll-docs]: mailto:gtena@wwfmex.org

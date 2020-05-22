@@ -2,7 +2,7 @@
 layout: post
 title:  "La nueva política eléctrica de AMLO acelera el cambio climático al frenar las energías renovables"
 author: cemda
-categories: [ opinion ]
+categories: [ infórmate, opinión ]
 featured: false
 image: assets/images/eolica2.jpg
 ---
@@ -33,6 +33,6 @@ Las organizaciones coincidieron en que esta nueva política contiene muchos defe
 
 Ricardo Ruiz Esparza
 
-Lee la [reflexión][jekyll-docs].
+Lee la [reflexión] en la página de CEMDA[jekyll-docs].
 
 [jekyll-docs]: https://www.cemda.org.mx/la-nueva-politica-electrica-de-amlo-acelera-el-cambio-climatico-al-frenar-las-energias-renovables/

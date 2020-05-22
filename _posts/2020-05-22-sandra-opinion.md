@@ -2,7 +2,7 @@
 layout: post
 title:  "Gobierno mexicano pone freno a un futuro renovable en nombre del COVID-19"
 author: sandra
-categories: [ opinion ]
+categories: [ infórmate, opinión ]
 featured: false
 image: assets/images/eolica.jpg
 ---
