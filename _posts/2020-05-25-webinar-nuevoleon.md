@@ -3,7 +3,7 @@ layout: post
 title:  "La transición hacia una economía bajo en carbono en México."
 author: andresfernandez
 categories: [ eventos, infórmate ]
-featured: true
+featured: false
 image: assets/images/andresfernandez.jpg
 ---
 
