@@ -11,7 +11,7 @@ image: assets/images/enediger.jpg
 
 Nosotras somos Estefanía y Angélica, hemos trabajado en el sector energético en los últimos cinco años y nos interesa compartir con ustedes todo lo que hace funcionar a este sector, para que te vuelvas un usuario consciente y responsable en tu consumo de energía.
 
-Escucha los podcast en esta dirección [Link de la reunión][jekyll-docs].
+Escucha los podcast en esta [dirección][jekyll-docs].
 
 
 

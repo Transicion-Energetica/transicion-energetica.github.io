@@ -21,6 +21,6 @@ Atentamente
 
 Un/a ciudadana/o comprometida/o con un futuro mejor para México
 
-[Firma][jekyll-docs].
+[¡Firma aquí!][jekyll-docs].
 
 [jekyll-docs]: https://actua.greenpeace.org.mx/no-al-bloqueo-de-energias-renovables-en-mexico?utm_content=TWFirmaCiberaccionRocio200521R:ESU&utm_medium=social&utm_source=twitter&utm_campaign=No%20al%20bloqueo%20de%20energias%20renovables%20en%20Mexico%20SENER&hs_resource__c=ESU&hs_subchannel__c=social&hs_partner__c=twitter&hs_tool=Link&hs_origen__c=TWFirmaCiberaccionRocio200521R:ESU
