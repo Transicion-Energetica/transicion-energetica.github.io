@@ -5,7 +5,7 @@ description: "Transición energética en México"
 meta_description: "Transición energética en México"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-paginate: 12
+paginate: 6
 baseurl: '/'
 email: 'transicionenergeticaenmexico@gmail.com'
 #google_analytics: 'UA-46278016-1'
