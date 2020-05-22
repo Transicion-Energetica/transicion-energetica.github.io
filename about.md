@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Somos Mexican@s y compartimos tu visión de un México verde
+title: Somos Mexican@s y compartimos tu visión para México
 comments: false
 ---
 
