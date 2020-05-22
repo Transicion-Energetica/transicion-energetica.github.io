@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  En imágenes: ¿Qué pasa con el gobierno federal y las energías renovables?
+title:  "En imágenes: ¿Qué pasa con el gobierno federal y las energías renovables?"
 author: empoderamientoclimatico
 categories: [ infórmate, difusión ]
 featured: false
