@@ -4,7 +4,7 @@ title:  "Firma petición de GREENPEACE"
 author: greenpeacemexico
 categories: [ actúa, firma ]
 featured: true
-image: assets/images/aceite.jpg
+image: assets/images/green.jpg
 ---
 
 Rocío Nahle: En esta ocasión me dirijo a usted para manifestar mi desacuerdo con las medidas que recientemente se han tomado en materia de generación de electricidad que ponen freno a las energías renovables en nuestro país.

@@ -3,7 +3,7 @@ layout: post
 title:  "Firma petición en Change.org"
 categories: [ actúa, firma ]
 featured: true
-image: assets/images/enediger.jpg
+image: assets/images/aceite.jpg
 ---
 
 El gobierno federal mexicano quiere **bloquear la entrada en operación de centrales de energía renovable** -solar y eólica- con el argumento confuso de perjudicar la confiabilidad del sistema eléctrico nacional. El cambio de reglas deja en el limbo a decenas de nuevas plantas renovables desarrolladas por la iniciativa privada.
