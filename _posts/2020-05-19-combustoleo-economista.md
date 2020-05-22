@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Combustóleo, el doble de caro para producir electricidad"
+author: economist
 categories: [ infórmate, opinión ]
 featured: false
 image: assets/images/pollution1.jpg
