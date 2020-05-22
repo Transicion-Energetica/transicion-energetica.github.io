@@ -14,6 +14,7 @@ sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/
 
 # Authors
 authors:
+
   sandra:
     name: Sandra Guzmán
     display_name: Sandra Guzmán
@@ -22,6 +23,7 @@ authors:
     web: 
     twitter: 
     description: "Founder and Global Agenda Coordinator, GFLAC and consultant for the Secretariat of the UNFCCC."
+
   eluniversal:
     name: Periodico "El Universal"
     display_name: Periodico "El Universal"
@@ -30,6 +32,7 @@ authors:
     web: 
     twitter: 
     description: 
+
   samedwards:
     name: Sam Edwards
     display_name: Sam Edwards
@@ -38,6 +41,7 @@ authors:
     web: 
     twitter: 
     description: "Sam Edwards is a journalist based in Mexico. His work has appeared in The Guardian, The Nation, and Foreign Affairs, among others."
+
   climatetransparency:
     name: Climate Transparency Org.
     display_name: Climate Transparency Org.
@@ -46,6 +50,45 @@ authors:
     web: 
     twitter: 
     description: "Climate Transparency is a global partnership with a shared mission to stimulate a ‘race to the top’ in G20 climate action and to shift investments towards zero carbon technologies through enhanced transparency."
+
+  greenpeacemexico:
+    name: GREENPEACE México.
+    display_name: GREENPEACE México.
+    gravatar: 
+    email: 
+    web: 
+    twitter: 
+    description: "Somos una organización ambientalista global,  independiente política y económicamente que busca cambios en las políticas públicas, las prácticas corporativas y la cultura, para enfrentar las amenazas del cambio climático y detener la pérdida de biodiversidad a través de campañas disruptivas para fomentar la acción de la gente."
+
+  andresfernandez:
+    name: Andrés Fernández
+    display_name: Andrés Fernández
+    gravatar: 
+    email: 
+    web: 
+    twitter: 
+    description: "Experto en política pública relacionado con infraestructura energética. Actualmente es consultor asociado para Carbon Trust en la Ciudad de México abordando temas de sostenibilidad en todo América Latina."
+
+  empoderamientoclimatico:
+    name: Empoderamiento Climático
+    display_name: Empoderamiento Climático
+    gravatar: 
+    email: empoderamientoclimatico@gmail.com
+    web: https://www.facebook.com/empoderamientoclimatico/
+    twitter: 
+    description: "Nos guiamos por Action for Climate Empowerment de la Convención Marco de las Naciones Unidad por el Cambio Climático."
+
+  wwfmexico:
+    name: WWF México
+    display_name: WWF México
+    gravatar: 
+    email: 
+    web: https://www.wwf.org.mx/inicio.cfm
+    twitter: 
+    description: "Trabajamos en la conservación de las riquezas naturales, el impulso de políticas públicas y la transformación del mercado. Todos nuestros proyectos contemplan la dimensión social de la conservación."
+  
+
+  
 
 # Plugins
 plugins: 
