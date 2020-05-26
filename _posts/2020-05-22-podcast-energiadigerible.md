@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "¡Infórmate escuchando este súper podcast!"
-author: estefaniaangelica
+author: energiadigerible
 categories: [ infórmate, opinión ]
 featured: true
 image: assets/images/enediger.jpeg
