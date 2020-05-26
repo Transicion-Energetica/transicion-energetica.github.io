@@ -4,7 +4,7 @@ title:  "¡Infórmate escuchando este súper podcast!"
 author: estefaniaangelica
 categories: [ infórmate, opinión ]
 featured: true
-image: assets/images/enediger.jpg
+image: assets/images/enediger.jpeg
 ---
 
 ¡Bienvenidos a Energía Digerible! un Podcast de energía para todos los que la usamos y pagamos por ella. Aquí hablaremos de aspectos técnicos, económicos, legales y ambientales de forma sencilla y digerible.
